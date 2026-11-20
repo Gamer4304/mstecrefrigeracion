@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Cuando el dominio esté registrado, publica sitemap.xml y agrega su URL absoluta aquí.
+# Sitemap: https://TU-DOMINIO/sitemap.xml
